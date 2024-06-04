@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Amityadav2662/AmitYadavGithub/assets/116245976/7fd3e630-0215-4ad6-b94f-01979d5b6ea9)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amityadav2662&label=Profile%20views&color=0e75b6&style=flat" alt="amityadav2662" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amityadav2662" alt="amityadav2662" /></a> </p>
